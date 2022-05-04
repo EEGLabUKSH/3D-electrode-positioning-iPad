@@ -1,7 +1,7 @@
 addpath('C:\Users\User\Documents\MATLAB\toolboxes\fieldtrip-20201023')
 ft_defaults
 
-head_surface = ft_read_headshape('textured_output.obj')
+head_surface = ft_read_headshape('Model.obj')
 disp(head_surface)
 
 head_surface = ft_convert_units(head_surface, 'mm');
