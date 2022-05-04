@@ -1,4 +1,5 @@
 # 3D-electrode-positioning-iPad
+<<<<<<< HEAD
 A project to estimate the Lidar quality of an iPad Pro 2021 for electrode localization based on a [Fieldtrip tutorial](https://www.fieldtriptoolbox.org/tutorial/electrode/).
 
 ## Project description
@@ -14,3 +15,7 @@ Supervised by Julian Keil, University of Kiel<br>
 
 ## Versioning
 *Version 0.0.1*
+=======
+ 
+inlcuding Mirko
+>>>>>>> a33ef97c5a467caa141fa84d3956506b8911f870
