@@ -1,6 +1,4 @@
-addpath('C:\Users\User\Documents\MATLAB\toolboxes\fieldtrip-20201023')
-ft_defaults
-
+addpath('C:\Users\mirko\OneDrive\Dokumente\GitHub\3D-electrode-positioning-iPad\data\fieldtrip_example.obj')
 head_surface = ft_read_headshape('Model.obj')
 disp(head_surface)
 
